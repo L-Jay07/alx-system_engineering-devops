@@ -1,2 +1,0 @@
-#!/bin/bash
-tai -n 1 < iacta >> iacta
